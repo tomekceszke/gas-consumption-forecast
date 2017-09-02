@@ -110,6 +110,8 @@ fprintf('\nPredictions:\n')
 
 plot(X_test, y_pred, '-'); hold on
 plot(X_test, y_test, '-'); hold off
+ylabel('Consumption [m3/month]'); 
+xlabel('Month'); 
 legend('Predicted','Real')
 
 
