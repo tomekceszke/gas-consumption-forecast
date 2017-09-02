@@ -4,8 +4,8 @@ As a training data I use my [historical values](data/data_month.txt).
 
 *Intentionally written in pure Matlab language, using only basic mathematics operations.*
 
-* Prediction model: Polynomial Regression
-* Optimization algorithm: [Normal Equation](https://en.wikipedia.org/wiki/Linear_least_squares_(mathematics))
+* Prediction method: Polynomial Regression
+* Learning algorithm: [Normal Equation](https://en.wikipedia.org/wiki/Linear_least_squares_(mathematics))
 
 ### Models
 ![sample](doc/img/training_data_anf_hypothesis.PNG)
