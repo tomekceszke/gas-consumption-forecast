@@ -1,6 +1,6 @@
 # Gas consuption forecast
 Attempt to use Machine Learning to predict natural gas consumption for domestic needs like heating and cooking.
-As a training data I use my [historical values](data/data_month.txt). 
+As a training data I used my [historical values](data/data_month.txt). 
 
 *Intentionally written in pure Matlab language, using only basic mathematics operations.*
 
