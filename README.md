@@ -1,9 +1,9 @@
-# Gas consuption forecast
+# Gas consumption forecast
 Attempt to use Machine Learning to predict natural gas consumption for domestic needs like heating and cooking.
 As a training data I used my [historical values](data/data_month.txt). 
 
 * Prediction method: Polynomial Regression
-* Learning algorithm: [Normal Equation](https://en.wikipedia.org/wiki/Linear_least_squares_(mathematics))
+* Optimization: [Normal Equation](https://en.wikipedia.org/wiki/Linear_least_squares_(mathematics))
 
 
 ## Note
