@@ -8,7 +8,7 @@ As a training data I used my [historical values](data/data_month.txt).
 
 ## Note
 - *Written only for educational purposes*
-- *Intentionally written in pure Matlab language, using only basic mathematics operations*
+- *Intentionally written in pure Matlab language, using only elementary arithmetic operations:*
 
 ### Models
 ![sample](doc/img/training_data_anf_hypothesis.PNG)
