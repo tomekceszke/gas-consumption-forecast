@@ -2,10 +2,13 @@
 Attempt to use Machine Learning to predict natural gas consumption for domestic needs like heating and cooking.
 As a training data I used my [historical values](data/data_month.txt). 
 
-*Intentionally written in pure Matlab language, using only basic mathematics operations.*
-
 * Prediction method: Polynomial Regression
 * Learning algorithm: [Normal Equation](https://en.wikipedia.org/wiki/Linear_least_squares_(mathematics))
+
+
+## Note
+- *Written only for educational purposes. Not for production use.*
+- *Intentionally written in pure Matlab language, using only basic mathematics operations.*
 
 ### Models
 ![sample](doc/img/training_data_anf_hypothesis.PNG)
